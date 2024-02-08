@@ -6,7 +6,7 @@
 #### Follow below steps
 
 ## .net Core API with DynamoDB
-- Create a dotnet 6 project using ASP.net Core WEB api template
+**1 Create a dotnet 6 project using ASP.net Core WEB api template**
 
 **2 IAm Role Policy**
 AmazonDynamoDBFullAccess
